@@ -1,4 +1,4 @@
-LabelImg
+LabelImg Test
 ========
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
